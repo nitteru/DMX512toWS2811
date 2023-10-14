@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "DMX512toWS2811")(type "KiCad")(uri "${KIPRJMOD}/DMX512toWS2811.kicad_sym")(options "")(descr ""))
+)
