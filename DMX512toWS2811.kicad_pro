@@ -55,9 +55,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "courtyards_overlap|194499999|111040001|5ec85877-6870-4933-ae94-3a4fd54dbfc7|ca6d89c3-4f73-4c6f-ac4e-58bea8968730"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -411,10 +409,13 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
+    "pinned_footprint_libs": [
+      "MyLibrary"
+    ],
     "pinned_symbol_libs": [
       "Device",
-      "SamacSys_Parts"
+      "SamacSys_Parts",
+      "MyLibrary"
     ]
   },
   "meta": {
