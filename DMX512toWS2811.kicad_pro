@@ -4,7 +4,7 @@
     "design_settings": {
       "defaults": {
         "board_outline_line_width": 0.09999999999999999,
-        "copper_line_width": 0.19999999999999998,
+        "copper_line_width": 0.09999999999999999,
         "copper_text_italic": false,
         "copper_text_size_h": 1.5,
         "copper_text_size_v": 1.5,
@@ -55,9 +55,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "courtyards_overlap|194499999|111040001|5ec85877-6870-4933-ae94-3a4fd54dbfc7|ca6d89c3-4f73-4c6f-ac4e-58bea8968730"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
