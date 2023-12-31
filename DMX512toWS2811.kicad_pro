@@ -409,10 +409,13 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
+    "pinned_footprint_libs": [
+      "MyLibrary"
+    ],
     "pinned_symbol_libs": [
       "Device",
-      "SamacSys_Parts"
+      "SamacSys_Parts",
+      "MyLibrary"
     ]
   },
   "meta": {
